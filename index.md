@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+## [Discord bot](https://AlexPlay1.github.io/discordbot.md)
 
 You can use the [editor on GitHub](https://github.com/AlexPlay1/AlexPlay1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
